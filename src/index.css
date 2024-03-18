@@ -4,7 +4,7 @@ body {
 }
 
 .post-container {
-  margin: 10px;
+  margin: 15px;
   background-color: rgb(249, 249, 249);
   border-radius: 20px;
   padding: 10px;
@@ -19,8 +19,4 @@ body {
 .like-icon {
   height: 30px;
   width: 30px;
-}
-
-.likes {
-  display: inline-block;
 }
