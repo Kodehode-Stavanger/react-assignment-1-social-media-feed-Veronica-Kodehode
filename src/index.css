@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.post-container {
+  margin: 15px;
+  background-color: rgb(249, 249, 249);
+  border-radius: 20px;
+  padding: 10px;
+  width: 30vw;
+  box-shadow: 5px 5px lightgrey;
+}
+
+.likes {
+  padding: 7px 0px;
+}
+
+.like-icon {
+  height: 30px;
+  width: 30px;
+}
